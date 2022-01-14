@@ -1,0 +1,1 @@
+These are the image templates for A Strain on Reality, you can use GIMP2 (which is free) to open these files to edit.
